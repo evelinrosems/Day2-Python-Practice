@@ -1,0 +1,3 @@
+Welcome to Zecpath.
+I am learning Python backend development.
+Today I am practising file handling.
